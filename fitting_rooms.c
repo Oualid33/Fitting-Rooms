@@ -4,10 +4,6 @@
  * Men and Women are sharing the same rooms.
  * rooms are labled as follows: empty, occuped by men, and occuped by women.
  * Men cannot access rooms when they are occuped by women, and vice versa.
- *
- * By Oualid Demigha, PhD
- * On May 8th, 2019
- * At EMP
  */
 
 #include <stdio.h>
